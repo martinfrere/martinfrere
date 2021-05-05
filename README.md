@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @martinfrere
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning rust and solana
+- 💞️ I’m looking to collaborate on a simple project on chain
+- 📫 How to reach me : reach me on twitter to @Came2Late
